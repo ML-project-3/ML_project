@@ -20,7 +20,14 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 - IMDb
 - Watcha
 
-<summary><b> ## 👀데이터 전처리 </b></summary>
+<details>
+<summary><b> ##➡️ 전처리</b></summary>
+  
+> **문제** : 
+>
+> **해결** : 
+  
+</details>
 
 ## 🔥이슈 및 트러블슈팅
 
