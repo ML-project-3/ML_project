@@ -18,6 +18,8 @@ Machine Learning Project: The next big hit Netflix Sequel Drama(Soap opera) fore
 3. 수행 기간: 4주 (2024.05.28 \~ 2024.06.28)
 4. 목표: 
 
+![image](https://github.com/ML-project-3/ML_project/assets/155655348/4a31cbd7-f73d-43d1-b3b4-8f975ab187f6)
+![image (1)](https://github.com/ML-project-3/ML_project/assets/155655348/fe045251-781d-42f6-b1a4-821800e7805f)
 
 ## 🔥이슈 및 트러블슈팅
 
