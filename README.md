@@ -22,7 +22,7 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 
 ## ⌨ 데이터 전처리
 <details>
-<summary><b> ##➡️ 결측치, 이상치 처리</b></summary>
+<summary><b> 결측치, 이상치 처리</b></summary>
   
 > **결측치** : 
 >
@@ -34,7 +34,7 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 ## 📝흥행 지표 생성
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/d1fdd8e0-d8b5-42a8-93dd-4933835cdd78)
 <details>
-<summary><b>➡️ 흥행지표 자세한 내용</b></summary>
+<summary><b> 흥행지표 자세한 내용</b></summary>
   
 > **가중치_참고** : 
 >
