@@ -1,5 +1,3 @@
-# ML_project
-머신러닝 프로젝트 3조 입니다
 # 🖥 Team Project
 팀원: 강민지, 김이영, 이예슬, 조규리, 천준규
 ---
@@ -19,3 +17,15 @@ Machine Learning Project: The next big hit Netflix Sequel Drama(Soap opera) fore
 2. 수행자: 강민지, 김이영, 이예슬, 조규리, 천준규
 3. 수행 기간: 4주 (2024.05.28 \~ 2024.06.28)
 4. 목표: 
+
+
+## 🔥이슈 및 트러블슈팅
+
+<details>
+<summary><b>➡️ 이슈</b></summary>
+  
+> **문제** : 
+>
+> **해결** : 
+  
+</details>
