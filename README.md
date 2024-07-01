@@ -12,9 +12,13 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 ### 배경
 - why Netflix?
 - why Drama?
+
+## 📌 프로젝트 진행 순서
 ![플로우차트 (1)](https://github.com/ML-project-3/ML_project/assets/155655348/007df57f-8f62-4b23-9fed-230d74c56556)
 
 ## 📑데이터 수집
+/데이터 프레임/![image](https://github.com/ML-project-3/ML_project/assets/155655348/ab643ec3-cec5-4766-8f92-c6ef9bc92a59)
+
 - 프로젝트 전제조건
 - JustWatch
 - IMDb
@@ -24,13 +28,21 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 <details>
 <summary><b> 결측치, 이상치 처리</b></summary>
   
-> **결측치** : 
+> **결측치** :
+> IMDb 1. 연령 등급 보완: 넷플릭스 공식 자료를 참고하여 연령 등급 결측치 보완
+2. 에피소드 별 평점 결측치 삭제:드라마 시즌 1, 2의 에피소드 별 평점에 하나라도 결측치가 있을 시 제외
+3. 한국 방영과의 괴리 해소: 외국에서는 방영했으나 한국에서 서비스하지 않은 경우 그 시즌만 삭제
+4. 외전 삭제: 정식 시즌이 아니므로 제외
+![image](https://github.com/ML-project-3/ML_project/assets/155655348/358db769-c895-4580-a44a-f4c1b989efa3)
+
 >
 > **이상치** : 
   
 </details>
 
-## 🔍eda
+## 🔍EDA
+
+
 ## 📝흥행 지표 생성
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/d1fdd8e0-d8b5-42a8-93dd-4933835cdd78)
 <details>
