@@ -10,6 +10,8 @@ Machine Learning Project: The next big hit Netflix Sequel Drama(Soap opera) fore
 
 ## **🕹 프로젝트 소개**
 ### 배경
+1. why Netflix?
+2. why Drama?
 
 
 ### 프로젝트 개요
