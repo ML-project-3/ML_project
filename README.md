@@ -14,21 +14,44 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 - why Drama?
 ![플로우차트 (1)](https://github.com/ML-project-3/ML_project/assets/155655348/007df57f-8f62-4b23-9fed-230d74c56556)
 
-## 👀데이터 수집
+## 📑데이터 수집
 - 프로젝트 전제조건
 - JustWatch
 - IMDb
 - Watcha
 
+## ⌨ 데이터 전처리
 <details>
-<summary><b> ##➡️ 전처리</b></summary>
+<summary><b> ##➡️ 결측치, 이상치 처리</b></summary>
   
-> **문제** : 
+> **결측치** : 
 >
-> **해결** : 
+> **이상치** : 
   
 </details>
 
+## 🔍eda
+## 📝흥행 지표 생성
+![image](https://github.com/ML-project-3/ML_project/assets/155655348/d1fdd8e0-d8b5-42a8-93dd-4933835cdd78)
+<details>
+<summary><b>➡️ 흥행지표 자세한 내용</b></summary>
+  
+> **가중치_참고** : 
+>
+> **계산식** : 
+  
+</details>
+
+## 📈머신러닝
+- 초기
+- 최종
+- 흥행 등급
+
+## 👀추가 분석
+- 추가 파생변수 season_gaps
+- 오징어 게임 2 예측
+
+  
 ## 🔥이슈 및 트러블슈팅
 
 <details>
