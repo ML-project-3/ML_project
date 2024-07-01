@@ -2,7 +2,7 @@
 ---
 ## 💡 Introduction
 **넷플릭스 시즌제 드라마의 후속작 흥행 예측**  
-Project: Predicting the Next Big Hit Netflix Sequel Drama
+Predicting the Next Big Hit Netflix Sequel Drama
 
 ## 프로젝트 개요
 1. 팀원: 강민지, 김이영, 이예슬, 조규리, 천준규
@@ -13,16 +13,22 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 - why Netflix?
 - why Drama?
 
-## 프로젝트 진행 순서
+### 프로젝트 진행 순서
 ![플로우차트 (1)](https://github.com/ML-project-3/ML_project/assets/155655348/007df57f-8f62-4b23-9fed-230d74c56556)
 
 ## 데이터 수집(크롤링)
 /데이터 프레임/![image](https://github.com/ML-project-3/ML_project/assets/155655348/ab643ec3-cec5-4766-8f92-c6ef9bc92a59)
 
-- 프로젝트 전제조건
+- 프로젝트 전제조건: 한국 넷플릭스에서 현재 시청 가능한 드라마 중 ~ 2023. 12. 31까지의 작품
 - JustWatch
+    - 스트리밍 동영상 검색 엔진
+    - 국내에서 서비스 중인 넷플릭스 드라마 데이터 확보에 이용
 - IMDb
+   - 세계 최대의 영상 매체 데이터 베이스
+   - 글로벌 평반 반영
 - Watcha
+  - 한국의 영상 매체 데이터 베이스
+  - 동양권 드라마에 대한 평판 보완
 
 ## 데이터 전처리
 <details>
@@ -48,7 +54,8 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 </details>
 
 ## EDA
-
+![image](https://github.com/ML-project-3/ML_project/assets/155655348/abd01e5d-c250-4e8a-941b-68ad61d565a7)
+- 시즌제 드라마의 제작이 2021년부터 감소 추세를 보임. 반면 단일 드라마의 제작은 활발함.
 
 ## 흥행 지표 생성
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/d1fdd8e0-d8b5-42a8-93dd-4933835cdd78)
@@ -57,7 +64,8 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
   
 > **가중치_참고** : 
 >
-> **계산식** : 
+> **계산식** : ![image](https://github.com/ML-project-3/ML_project/assets/155655348/251c3725-fd5a-4e13-ba42-9ee0d7387a42)
+
   
 </details>
 
