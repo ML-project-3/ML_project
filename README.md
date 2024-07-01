@@ -1,9 +1,8 @@
 # 🖥 Machine Learning Project
-팀원: 강민지, 김이영, 이예슬, 조규리, 천준규
 ---
 ## 💡 Introduction
 **넷플릭스 시즌제 드라마의 후속작 흥행 예측**
-Project: Predicting the Next Big Hit Netflix Sequel Drama
+\t Project: Predicting the Next Big Hit Netflix Sequel Drama
 
 ## 🕰️ 프로젝트 개요
 1. 팀원: 강민지, 김이영, 이예슬, 조규리, 천준규
@@ -13,8 +12,7 @@ Project: Predicting the Next Big Hit Netflix Sequel Drama
 ### 배경
 1. why Netflix?
 2. why Drama?
-
-![플로우차트](https://github.com/ML-project-3/ML_project/assets/155655348/75ed0864-6c6d-40d5-91fd-ec97cc401cee)
+![플로우차트 (1)](https://github.com/ML-project-3/ML_project/assets/155655348/007df57f-8f62-4b23-9fed-230d74c56556)
 
 ## 🔥이슈 및 트러블슈팅
 
