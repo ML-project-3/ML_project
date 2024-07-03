@@ -162,7 +162,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 </details>
 
 <details>
-<summary><b>➡️ 03. 흥행지표 생성 문제제</b></summary>
+<summary><b>➡️ 03. 흥행지표 생성 문제</b></summary>
 
 > **설명** : 흥행 지표를 만들 때 데이터를 기반으로 가중치를 설정하는 데 많은 시간이 소요
 >
