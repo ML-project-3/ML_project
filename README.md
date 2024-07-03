@@ -64,6 +64,8 @@ Predicting the Next Big Hit Netflix Sequel Drama
 </details>
 
 ## EDA
+![image](https://github.com/ML-project-3/ML_project/assets/80812507/812a1b3d-1fcb-4b79-9938-a149091b2cb2)
+- 시즌 1개만 있는 드라마가 639개, 시즌 2개가 있는 드라마는 266개
 
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/abd01e5d-c250-4e8a-941b-68ad61d565a7)
 - 시즌제 드라마의 제작이 2021년부터 감소 추세를 보임. 반면 단일 드라마의 제작은 활발함.
