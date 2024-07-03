@@ -146,9 +146,9 @@ Predicting the Next Big Hit Netflix Sequel Drama
 <details>
 <summary><b>➡️ 01. IMDb 서양권 편중 문제</b></summary>
   
-> **설명 1** : IMDb 유
+> **설명 1** : IMDb는 미국 유저가 30% 이상을 차지하고, 그 다음으로 영국, 캐나다 유저가 많은 특성을 가지고 있음. 때문에 글로벌 평판은 반영 가능하지만, 동양권 드라마에 대한 관심이 덜한 한계가 존재.
 >
-> **해결 1** :  Watcha 한국 사이트 참고
+> **해결 1** :  한, 중, 일 드라마에 대한 선호가 강한 Watcha를 추가적으로 크롤링하여 동양권 드라마에 대한 평판을 보완하고자 함.
 </details>
 
 <details>
