@@ -94,9 +94,6 @@ Predicting the Next Big Hit Netflix Sequel Drama
 > **가중치_참고** : 
 >
 > **계산식** :![흥행 지표](https://github.com/ML-project-3/ML_project/assets/155655348/71127273-f307-4ac5-84ce-5fec6a5a900d)
-
-![image](https://github.com/ML-project-3/ML_project/assets/155655348/251c3725-fd5a-4e13-ba42-9ee0d7387a42)
-
   
 </details>
 
