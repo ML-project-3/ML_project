@@ -110,6 +110,9 @@ Predicting the Next Big Hit Netflix Sequel Drama
 ## 머신러닝
 - 초기
 - 최종
+
+![first   final score](https://github.com/ML-project-3/ML_project/assets/168641346/426aaa5a-ca5f-4398-adc9-3f0ce6a7ef78)
+
 - 흥행 등급:  
     ![ML_Netflix project 평일오후3조 final (2)](https://github.com/ML-project-3/ML_project/assets/80812507/6d012b4f-b122-4f08-a19a-8cb5e12c4022)
     
