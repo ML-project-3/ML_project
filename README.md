@@ -67,7 +67,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 
 ## EDA
 ![image](https://github.com/ML-project-3/ML_project/assets/80812507/812a1b3d-1fcb-4b79-9938-a149091b2cb2)
-- 시즌 1개만 있는 드라마가 639개, 시즌 2개가 있는 드라마는 266개
+- 시즌 1개만 있는 드라마(단일 드라마)가 639개, 시즌 2개(시즌제 드라마)가 있는 드라마는 266개
 ---
 
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/abd01e5d-c250-4e8a-941b-68ad61d565a7)
@@ -93,7 +93,16 @@ Predicting the Next Big Hit Netflix Sequel Drama
   
 > **가중치_참고** : 
 >
-> **계산식** : ![image](https://github.com/ML-project-3/ML_project/assets/155655348/251c3725-fd5a-4e13-ba42-9ee0d7387a42)
+> **계산식** :
+> 시즌 별 인기도
+>     - 평점: 0.8 * IMDb + 0.2 * Watcha
+>     - 평점을 매긴 사람 수: 0.8 * IMDb + 0.2 * Watcha
+>     - 유지도: 0.25 * 평점 유지도 + 0.75 * 평점을 매긴 사람 유지도
+>     -> 시즌 별 인기도 = 0.2 * 평점 + 0.6 * 평점을 매긴 사람 수 + 0.2 * 유지도 
+
+
+> ![image](https://github.com/ML-project-3/ML_project/assets/155655348/e7883c23-d945-40c5-8025-8f63ebc717a4)
+![image](https://github.com/ML-project-3/ML_project/assets/155655348/251c3725-fd5a-4e13-ba42-9ee0d7387a42)
 
   
 </details>
