@@ -67,7 +67,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 
 ## EDA
 ![image](https://github.com/ML-project-3/ML_project/assets/80812507/812a1b3d-1fcb-4b79-9938-a149091b2cb2)
-- 시즌 1개만 있는 드라마가 639개, 시즌 2개가 있는 드라마는 266개  
+- 시즌 1개만 있는 드라마가 639개, 시즌 2개가 있는 드라마는 266개
 ---
 
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/abd01e5d-c250-4e8a-941b-68ad61d565a7)
@@ -75,15 +75,15 @@ Predicting the Next Big Hit Netflix Sequel Drama
 ---
 
 ![image (1)](https://github.com/ML-project-3/ML_project/assets/80812507/a83d29c9-031c-45e3-a12a-3d0e39474b1e)
-- 시즌 1, 2의 평점, 평점 참여 인원 수 데이터가 선형적임을 알 수 있음  
+- 시즌 1, 2의 평점, 평점 참여 인원 수 데이터가 선형적임을 알 수 있음
 ---
 
 ![image (2)](https://github.com/ML-project-3/ML_project/assets/80812507/f0a3430a-6679-45f3-85c9-12503e4a9568)
-- 미국이 221개, 대한민국이 176개로 넷플릭스 드라마가 가장 많은 두 나라임을 확인  
+- 미국이 221개, 대한민국이 176개로 넷플릭스 드라마가 가장 많은 두 나라임을 확인
 ---
 
 ![image (3)](https://github.com/ML-project-3/ML_project/assets/80812507/61bd19b4-e4e1-49e2-879b-9251f3277424)
-- 19세 연령의 드라마가 가장 많으며, 그 다음으로는 15세 연령의 드라마가 많음. 가장 적은 시청 등급의 드라마는 7세임을 확인  
+- 19세 연령의 드라마가 가장 많으며, 그 다음으로는 15세 연령의 드라마가 많음. 가장 적은 시청 등급의 드라마는 7세임을 확인
 ---
 
 ## 흥행 지표 생성
@@ -101,8 +101,9 @@ Predicting the Next Big Hit Netflix Sequel Drama
 ## 머신러닝
 - 초기
 - 최종
-- 흥행 등급:
-  ![ML_Netflix project 평일오후3조 final (2)](https://github.com/ML-project-3/ML_project/assets/80812507/6d012b4f-b122-4f08-a19a-8cb5e12c4022)  
+- 흥행 등급:  
+    ![ML_Netflix project 평일오후3조 final (2)](https://github.com/ML-project-3/ML_project/assets/80812507/6d012b4f-b122-4f08-a19a-8cb5e12c4022)
+    
 - **대흥행**: 상위 5%에 해당하는 드라마로, 전체 드라마 중에서 가장 높은 흥행 성적을 기록한 드라마들  
   **흥행**: 상위 6-30%에 해당하는 드라마로, 전체 드라마 중에서 비교적 높은 흥행 성적을 기록한 드라마들  
   **호불호**: 전체 31-70%에 해당하는 드라마로, 대중에게 호불호가 갈리는 드라마들  
