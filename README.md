@@ -21,6 +21,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 
 ![image](https://github.com/ML-project-3/ML_project/assets/80812507/8687704d-31d5-4e87-8354-69c517619d05)
 <출처:BACKLINKO, 'Netflix User & Growth Stats: How Many People Subscribe?', 2024.04.08., https://backlinko.com/netflix-users>
+
 <출처:한국콘텐츠진흥원, '글로벌 OTT 트렌드 Vol 5', 2024.05.14., 'https://www.kocca.kr/globalOTT/vol05/main/index.html'>
 
 ### 프로젝트 진행 순서
