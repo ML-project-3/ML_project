@@ -15,14 +15,14 @@ Predicting the Next Big Hit Netflix Sequel Drama
     - OTT 시장의 성숙기 진입 -> 미국을 중심으로 스트리밍 시장 포화
     - 넷플릭스 또한 수익 증가율, 구독자 증가율이 둔화되고 있음
     -> '컨텐츠'를 통해 비즈니스 문제를 해결할 수 있음
+<출처:한국콘텐츠진흥원, '글로벌 OTT 트렌드 Vol 5', 2024.05.14., 'https://www.kocca.kr/globalOTT/vol05/main/index.html'>
 - Why Drama?
     - 드라마는 긴 서사 구조 -> 시청자들의 지속적인 관심을 확보 가능
     -> 구독자 유지, 수익 안정성에 기여
 
-![image](https://github.com/ML-project-3/ML_project/assets/80812507/8687704d-31d5-4e87-8354-69c517619d05)
+![넷플릭스그래프](https://github.com/ML-project-3/ML_project/assets/80812507/654ac587-59f8-43cb-b5c8-c90ea909fa97)
 <출처:BACKLINKO, 'Netflix User & Growth Stats: How Many People Subscribe?', 2024.04.08., https://backlinko.com/netflix-users>
 
-<출처:한국콘텐츠진흥원, '글로벌 OTT 트렌드 Vol 5', 2024.05.14., 'https://www.kocca.kr/globalOTT/vol05/main/index.html'>
 
 ### 프로젝트 진행 순서
 ![플로우차트 (1)](https://github.com/ML-project-3/ML_project/assets/155655348/007df57f-8f62-4b23-9fed-230d74c56556)
@@ -86,8 +86,11 @@ Predicting the Next Big Hit Netflix Sequel Drama
 ## 머신러닝
 - 초기
 - 최종
-- 흥행 등급: ![ML_Netflix project 평일오후3조 final](https://github.com/ML-project-3/ML_project/assets/80812507/0a72a2f5-12ef-401d-9370-b028442bba54)
-- 설명 넣기
+- 흥행 등급: ![ML_Netflix project 평일오후3조 final (2)](https://github.com/ML-project-3/ML_project/assets/80812507/6d012b4f-b122-4f08-a19a-8cb5e12c4022)
+- 대흥행: 상위 5%에 해당하는 드라마로, 전체 드라마 중에서 가장 높은 흥행 성적을 기록한 드라마들
+  흥행: 상위 6-30%에 해당하는 드라마로, 전체 드라마 중에서 비교적 높은 흥행 성적을 기록한 드라마들
+  호불호: 전체 31-70%에 해당하는 드라마로, 대중에게 호불호가 갈리는 드라마들
+  부진: 전체 71-100%에 해당하는 드라마로, 흥행 성적이 저조한 드라마들
 
 
 ## 추가 분석
