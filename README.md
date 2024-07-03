@@ -126,6 +126,9 @@ Predicting the Next Big Hit Netflix Sequel Drama
 
 - 오징어 게임 2 예측
 
+![squid_game_season_2 score](https://github.com/ML-project-3/ML_project/assets/168641346/28f748d6-88c1-401a-ac87-3eefbcb65db2)
+
+
   
 ## 🔥이슈 및 트러블슈팅
 
