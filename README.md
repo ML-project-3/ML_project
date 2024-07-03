@@ -108,7 +108,9 @@ Predicting the Next Big Hit Netflix Sequel Drama
 </details>
 
 ## 머신러닝
-- 최초 / 최종 모델 성과지표 비교 
+- 최초 / 최종 모델 성과지표 비교 (가독성을 위해 최초, 최종 모델만 비교)
+  - 최초: raw 버전
+  - 최종: 평점, 평점 인원 수, 유지도, 장르 다양성에 log 변환 
 
 ![first   final score](https://github.com/ML-project-3/ML_project/assets/168641346/8172b78a-be47-4896-bfe8-5638b2fc6a06)
 
@@ -132,6 +134,11 @@ Predicting the Next Big Hit Netflix Sequel Drama
 
 ![squid_game_season_2 score](https://github.com/ML-project-3/ML_project/assets/168641346/28f748d6-88c1-401a-ac87-3eefbcb65db2)
 
+## 비지니스 효과
+1. OTT 흥행 지표 제시 → 의사결정 보조 지표로 활용
+2. 콘텐츠 투자의 리스크 헷징
+3. 마케팅 비용 최적화
+4. 신규 구독자 확보와 기존 고객 리텐션 유지
 
   
 ## 🔥이슈 및 트러블슈팅
