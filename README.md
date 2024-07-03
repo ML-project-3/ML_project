@@ -112,7 +112,9 @@ Predicting the Next Big Hit Netflix Sequel Drama
   - 최초: raw 버전
   - 최종: 평점, 평점 인원 수, 유지도, 장르 다양성에 log 변환 
 
-![first   final score](https://github.com/ML-project-3/ML_project/assets/168641346/8172b78a-be47-4896-bfe8-5638b2fc6a06)
+![first   final score](https://github.com/ML-project-3/ML_project/assets/168641346/8172b78a-be47-4896-bfe8-5638b2fc6a06)  
+
+![image (4)](https://github.com/ML-project-3/ML_project/assets/80812507/eff76eaf-84a9-4d47-8e67-363a9b90cd63)
 
 
 - 흥행 등급:  
