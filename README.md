@@ -98,7 +98,9 @@ Predicting the Next Big Hit Netflix Sequel Drama
 >     **연령 등급**  
 >        - 2023년 넷플릭스 시청 보고서를 참조 : 상위 100개 드라마의 연령 등급과 재생 시간을 조사  
 >     **장르**  
->     - 2023년 넷플릭스 시청 보고서를 참조  
+>     - 2023년 넷플릭스 시청 보고서를 참조
+> 참고 사이트: https://flixpatrol.com/preferences/netflix/overall/all/2024-2/
+> ---
 > **계산식** :![흥행 지표](https://github.com/ML-project-3/ML_project/assets/155655348/71127273-f307-4ac5-84ce-5fec6a5a900d)
   
 </details>
