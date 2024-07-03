@@ -101,7 +101,8 @@ Predicting the Next Big Hit Netflix Sequel Drama
 - 초기
 - 최종
 
-![first   final score](https://github.com/ML-project-3/ML_project/assets/168641346/426aaa5a-ca5f-4398-adc9-3f0ce6a7ef78)
+![first   final score](https://github.com/ML-project-3/ML_project/assets/168641346/8172b78a-be47-4896-bfe8-5638b2fc6a06)
+
 
 - 흥행 등급:  
     ![ML_Netflix project 평일오후3조 final (2)](https://github.com/ML-project-3/ML_project/assets/80812507/6d012b4f-b122-4f08-a19a-8cb5e12c4022)
@@ -114,6 +115,10 @@ Predicting the Next Big Hit Netflix Sequel Drama
 
 ## 추가 분석
 - 추가 파생변수 season_gaps
+
+![season_gaps score](https://github.com/ML-project-3/ML_project/assets/168641346/ea5eaee2-341d-479d-bbc1-424e8db2e667)
+
+
 - 오징어 게임 2 예측
 
   
