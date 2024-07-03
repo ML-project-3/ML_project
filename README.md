@@ -18,8 +18,10 @@ Predicting the Next Big Hit Netflix Sequel Drama
 - Why Drama?
     - 드라마는 긴 서사 구조 -> 시청자들의 지속적인 관심을 확보 가능
     -> 구독자 유지, 수익 안정성에 기여
+
 ![image](https://github.com/ML-project-3/ML_project/assets/80812507/8687704d-31d5-4e87-8354-69c517619d05)
 <출처:BACKLINKO, 'Netflix User & Growth Stats: How Many People Subscribe?', 2024.04.08., https://backlinko.com/netflix-users>
+<출처:한국콘텐츠진흥원, '글로벌 OTT 트렌드 Vol 5', 2024.05.14., 'https://www.kocca.kr/globalOTT/vol05/main/index.html'>
 
 ### 프로젝트 진행 순서
 ![플로우차트 (1)](https://github.com/ML-project-3/ML_project/assets/155655348/007df57f-8f62-4b23-9fed-230d74c56556)
