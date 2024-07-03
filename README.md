@@ -152,7 +152,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 </details>
 
 <details>
-<summary><b>➡️ 02. 구글 API</b></summary>
+<summary><b>➡️ 02. 구글 API 횟수 제한 문제</b></summary>
   
 > **설명** : 구글 api를 통한 크롤링 시 검색이 500회로 제한되는 문제
 >
@@ -160,7 +160,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 </details>
 
 <details>
-<summary><b>➡️ 03. 흥행지표 이슈 log얘기</b></summary>
+<summary><b>➡️ 03. 흥행지표 생성 문제제</b></summary>
 
 > **설명** : 흥행 지표를 만들 때 데이터를 기반으로 가중치를 설정하는 데 많은 시간이 소요
 >
@@ -176,7 +176,6 @@ Predicting the Next Big Hit Netflix Sequel Drama
 > **해결** : 시계열 데이터를 시즌2의 흥행 예측에만 사용하기로 결정하였음. 사이드 프로젝트로 시계열 데이터를 포함하여 새로운 흥행 지표를 생성한 후, 이를 기반으로 머신러닝 모델을 재훈련하여 새로운 흥행 예측을 수행함
 </details>
 
-<details>
 
 
 
