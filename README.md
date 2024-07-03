@@ -1,5 +1,5 @@
 # 🖥 Machine Learning Project
-![image](https://github.com/ML-project-3/ML_project/assets/80812507/7497ab51-e94c-466a-b4bb-7b603202ef41)
+![image](https://github.com/ML-project-3/ML_project/assets/80812507/517d9b68-7894-495f-ba95-f16bd69b61ea)
 ---
 ## 💡 Introduction
 **넷플릭스 시즌제 드라마의 후속작 흥행 예측**  
