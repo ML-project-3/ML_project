@@ -10,23 +10,29 @@ Predicting the Next Big Hit Netflix Sequel Drama
 
 ## 프로젝트 소개
 ### 배경
-- why Netflix?
-- why Drama?
+- Why Netflix?
+    - 넷플릭스는 글로벌 스트리밍 시장을 선도하는 기업으로, 현재 190개 국가에서 서비스 中
+    - OTT 시장의 성숙기 진입 -> 미국을 중심으로 스트리밍 시장 포화
+    - 넷플릭스 또한 수익 증가율, 구독자 증가율이 둔화되고 있음
+    -> '컨텐츠'를 통해 비즈니스 문제를 해결할 수 있음
+- Why Drama?
+    - 드라마는 긴 서사 구조 -> 시청자들의 지속적인 관심을 확보 가능
+    -> 구독자 유지, 수익 안정성에 기여
 
 ### 프로젝트 진행 순서
 ![플로우차트 (1)](https://github.com/ML-project-3/ML_project/assets/155655348/007df57f-8f62-4b23-9fed-230d74c56556)
 
 ## 데이터 수집(크롤링)
-/데이터 프레임/![image](https://github.com/ML-project-3/ML_project/assets/155655348/ab643ec3-cec5-4766-8f92-c6ef9bc92a59)
+![image](https://github.com/ML-project-3/ML_project/assets/155655348/ab643ec3-cec5-4766-8f92-c6ef9bc92a59)
 
-- 프로젝트 전제조건: 한국 넷플릭스에서 현재 시청 가능한 드라마 중 ~ 2023. 12. 31까지의 작품
-- JustWatch
+- **프로젝트 전제조건**: 한국 넷플릭스에서 현재 시청 가능한 드라마 중 ~ 2023. 12. 31까지의 작품
+- **JustWatch**
     - 스트리밍 동영상 검색 엔진
     - 국내에서 서비스 중인 넷플릭스 드라마 데이터 확보에 이용
-- IMDb
+   **IMDb**
    - 세계 최대의 영상 매체 데이터 베이스
    - 글로벌 평반 반영
-- Watcha
+- **Watcha**
   - 한국의 영상 매체 데이터 베이스
   - 동양권 드라마에 대한 평판 보완
 
@@ -54,6 +60,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 </details>
 
 ## EDA
+
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/abd01e5d-c250-4e8a-941b-68ad61d565a7)
 - 시즌제 드라마의 제작이 2021년부터 감소 추세를 보임. 반면 단일 드라마의 제작은 활발함.
 
@@ -73,6 +80,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 - 초기
 - 최종
 - 흥행 등급: ![ML_Netflix project 평일오후3조 final](https://github.com/ML-project-3/ML_project/assets/80812507/0a72a2f5-12ef-401d-9370-b028442bba54)
+- 설명 넣기
 
 
 ## 추가 분석
