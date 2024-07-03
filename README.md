@@ -31,7 +31,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 ## 데이터 수집(크롤링)
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/a09a657a-5c8d-4092-983c-840a23e3da8f)
 
-- **프로젝트 전제조건**: 한국 넷플릭스에서 현재 시청 가능한 드라마 중 ~ 2023. 12. 31까지의 작품
+- **프로젝트 전제조건**: 한국 넷플릭스에서 현재 시청 가능한 드라마 중 ~ 2023. 12. 31까지의 작품 (크롤링 날짜: 2024.06.10.)
 - **JustWatch**
     - 스트리밍 동영상 검색 엔진
     - 국내에서 서비스 중인 넷플릭스 드라마 데이터 확보에 이용
