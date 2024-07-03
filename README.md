@@ -44,7 +44,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 
 ## 데이터 전처리
 <details>
-<summary><b> 결측치, 이상치 처리 1090개 ➡ 904개 </b></summary>
+<summary><b> 결측치, 이상치 처리 1090개 ➡ 905개 </b></summary>
   
 > **결측치** :  
 > < IMDb >
@@ -100,7 +100,7 @@ Predicting the Next Big Hit Netflix Sequel Drama
 > **3. 장르**  
 >     - 2023년 넷플릭스 시청 보고서를 참조
 > 
-> 참고 사이트: https://flixpatrol.com/preferences/netflix/overall/all/2024-2/
+> 참고 사이트: FlixPatrol, 'Preferences on Netflix in Q2 2024', 2024.06.24.  https://flixpatrol.com/preferences/netflix/overall/all/2024-2/
 > 
 > ---
 > **계산식** :![흥행 지표](https://github.com/ML-project-3/ML_project/assets/155655348/71127273-f307-4ac5-84ce-5fec6a5a900d)
