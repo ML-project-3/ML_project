@@ -91,15 +91,20 @@ Predicting the Next Big Hit Netflix Sequel Drama
 <details>
 <summary><b> 흥행지표 자세한 내용</b></summary>
   
-> **가중치_참고** : 
->
+> **가중치_참고** :
+>     **제작 국가**
+>         - 2023년 넷플릭스 시청 시간 보고서 참고    
+>         - 상위 1000개 드라마의 제작 국가를 조사 -> 국가 별 비율을 계산  
+>     **연령 등급**
+>        - 2023년 넷플릭스 시청 보고서를 참조 : 상위 100개 드라마의 연령 등급과 재생 시간을 조사
+>     **장르**
+>     - 2023년 넷플릭스 시청 보고서를 참조
 > **계산식** :![흥행 지표](https://github.com/ML-project-3/ML_project/assets/155655348/71127273-f307-4ac5-84ce-5fec6a5a900d)
   
 </details>
 
 ## 머신러닝
-- 초기
-- 최종
+- 최초 / 최종 모델 성과지표 비교 
 
 ![first   final score](https://github.com/ML-project-3/ML_project/assets/168641346/8172b78a-be47-4896-bfe8-5638b2fc6a06)
 
