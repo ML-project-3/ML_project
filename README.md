@@ -1,5 +1,5 @@
 # 🖥 Machine Learning Project
-![kisspng-gift-card-netflix-amazon-com-television-5b22372389c1c5 6422031215289689955643](https://github.com/ML-project-3/ML_project/assets/80812507/1952a4bb-15a3-4f7b-b772-e9a42218eb6a)
+![Netflix_Logo_RGB](https://github.com/ML-project-3/ML_project/assets/80812507/46328e49-769a-4623-a16a-0288e7a1ba3c)
 ---
 ## 💡 Introduction
 **넷플릭스 시즌제 드라마의 후속작 흥행 예측**  
