@@ -72,7 +72,8 @@ Predicting the Next Big Hit Netflix Sequel Drama
 ## 머신러닝
 - 초기
 - 최종
-- 흥행 등급
+- 흥행 등급: ![ML_Netflix project 평일오후3조 final](https://github.com/ML-project-3/ML_project/assets/80812507/0a72a2f5-12ef-401d-9370-b028442bba54)
+
 
 ## 추가 분석
 - 추가 파생변수 season_gaps
