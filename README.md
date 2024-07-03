@@ -93,15 +93,8 @@ Predicting the Next Big Hit Netflix Sequel Drama
   
 > **가중치_참고** : 
 >
-> **계산식** :
-> 시즌 별 인기도  
->     - 평점: 0.8 * IMDb + 0.2 * Watcha  
->     - 평점을 매긴 사람 수: 0.8 * IMDb + 0.2 * Watcha  
->     - 유지도: 0.25 * 평점 유지도 + 0.75 * 평점을 매긴 사람 유지도  
->     -> 시즌 별 인기도 = 0.2 * 평점 + 0.6 * 평점을 매긴 사람 수 + 0.2 * 유지도   
+> **계산식** :![흥행 지표](https://github.com/ML-project-3/ML_project/assets/155655348/71127273-f307-4ac5-84ce-5fec6a5a900d)
 
-
-> ![image](https://github.com/ML-project-3/ML_project/assets/155655348/e7883c23-d945-40c5-8025-8f63ebc717a4)
 ![image](https://github.com/ML-project-3/ML_project/assets/155655348/251c3725-fd5a-4e13-ba42-9ee0d7387a42)
 
   
